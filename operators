@@ -1,0 +1,18 @@
+|| <-- or
+! <-- not
+&& <-- and
+
+== <--  equal to 
+++ <-- Expression
+<= <-- Greater than or Equal to
+>=
++=
+-=
+*=
+/=
+!= <-- not equal to
+
+
+variable = Expression1: exp1.exp2
+
+if raining = True, use umberella, use sunglasses

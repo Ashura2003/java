@@ -1,0 +1,2 @@
+OOP is used to tackle real life scenarios.
+(.)dot ooperator :- It is used to access the property of a class.
